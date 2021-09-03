@@ -37,7 +37,7 @@
 </style>
 
 <svelte:head>
-	<title>Andero project</title>
+	<title>Andero's project</title>
 </svelte:head>
 
 <h1>Great success!</h1>
